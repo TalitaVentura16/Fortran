@@ -12,7 +12,7 @@ program multiplicacao
     write (*,*) "Digite o segundo número" 
     read (*, *) b
 
-    produto = a * b
+    produto = a * b 
 
     print *, "A multiplicacao de ", a, " * ", b, " é igual à ", produto
 
