@@ -1,22 +1,21 @@
 # Fortran
 Este é o meu repositório de Fortran, criei ele para aprender sobre a linguagem. 
+
 Seja bem-vindo ao mundo do Fortran ✨ 
 
 **Informações Importantes**
 
 Para usar o Fortran é nescessario instalar um compilador, como uso a distribuição Debian do Linux apenas segui os passos abaixo no terminal:
 
-```sudo apt update```
-
-```sudo apt install gfortran```
+    sudo apt update
+    sudo apt install gfortran
 
 No VS Code instalei a extenção fortran de Xavier Hahn
 
 para compilar o código, digite no terminal:
 
-``` gfortran nome_pasta/nome_programa.f90 -o build/nome_programa ```
-
-``` ./build/nome_programa ```
+    gfortran nome_pasta/nome_programa.f90 -o build/nome_programa 
+    ./build/nome_programa
 
 Para o Windows você deverá instalar um compilador, uma boa indicação é o compilador GNU Fortran (gfortran)que faz parte do MinGW (Minimalist GNU for Windows). Você pode baixar o MinGW pelo site oficial: https://mingw-w64.org/doku.php/start.
 
@@ -34,5 +33,5 @@ Para entender como funciona a sintaxe do fortran escolhi programar uma calculado
 * Funções Trigonométricas.
 
 ***
-    Por enquanto é só isso, volte em alguns dias e terá novidades. 
+``` Por enquanto é só isso, volte em alguns dias e terá novidades. ``` 
 
